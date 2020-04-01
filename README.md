@@ -5,7 +5,7 @@
 |   |   |   |   |   |
 
 # Dashboard
-<iframe title="Adjudication" aria-label="Interactive donut chart" id="datawrapper-chart-zJr2G" src="https://app.powerbi.com/groups/a9179398-a996-471d-b821-29ff36b613d4/reports/00f57fe3-a63f-4928-a5fa-61e57149fa4b?ctid=d5fe813e-0caa-432a-b2ac-d555aa91bd1c" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="300"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+<iframe title="Adjudication" aria-label="Interactive donut chart" id="datawrapper-chart-zJr2G" src="https://app.powerbi.com/groups/a9179398-a996-471d-b821-29ff36b613d4/reports/00f57fe3-a63f-4928-a5fa-61e57149fa4b?ctid=d5fe813e-0caa-432a-b2ac-d555aa91bd1c" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="700"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
 # Dashboard
